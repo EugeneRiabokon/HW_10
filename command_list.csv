@@ -1,0 +1,230 @@
+    1  ls -lhSr
+    2  ls -lhS
+    3  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    4  git -version
+    5  git --version
+    6  man Ls
+    7  man
+    8  man ls
+    9  ls
+   10  cd Documents
+   11  pwd
+   12  cd Lesson32
+   13  cd Desktop
+   14  ls
+   15  clear
+   16  ls
+   17  cd 
+   18  ls
+   19  cd ~
+   20  xd/
+   21  ls
+   22  cd desktop
+   23  ls
+   24  cd марафон
+   25  cd/
+   26  cd /
+   27  ls
+   28  cd ~
+   29  ls
+   30  cd ..
+   31  ls
+   32  cd ..
+   33  ls
+   34  cd ..
+   35  ls
+   36  cd ~
+   37  ls
+   38  cd Desktop
+   39  pwd
+   40  clear
+   41  pwd
+   42  ls
+   43  cd Lesson32
+   44  mkdir LoL
+   45  touch 123.doc
+   46  touck 321.xls
+   47  touch 321.xls
+   48  ls
+   49  cd ..
+   50  cd Lesson32
+   51  ls
+   52  vim 123.doc
+   53  clear
+   54  clear
+   55  cd Desktop
+   56  cd Lesson32
+   57  touch file1.text
+   58  touch file1.txt
+   59  rm file1.text
+   60  rm 123.doc
+   61  rmdir LoL
+   62  rm 321.xls
+   63  rm file.txt
+   64  rm file1.txt
+   65  touch file1.txt
+   66  vim file1.xtx
+   67  cd D
+   68  ls
+   69  cd Desktop
+   70  cl Lesson32
+   71  touch 123.txt
+   72  vim 123.txt
+   73  ls
+   74  cd Desktop
+   75  xd Lesson32
+   76  nano
+   77  ls
+   78  cd Lesson32
+   79  touch 1.txt
+   80  nano 1.txt
+   81  cat 1.txt
+   82  clear
+   83  ls
+   84  ls
+   85  cp 1.xtx Users/yevhenriabokon/desctop
+   86  mkdir TEST
+   87  cp 1.xtx TEST
+   88  lp
+   89  is
+   90  ls
+   91  cp 1.txt TEST
+   92  pwd
+   93  mv 1.txt 
+   94  mv /Users/YR/Desktop/Lesson32/1.xtx /Users/YR/Desktop/Lesson32/TEST 
+   95  mv /Users/YR/Desktop/Lesson32/1.txt /Users/YR/Desktop/ 
+   96  adte
+   97  date
+   98  ping google.com
+   99  clear
+  100  system_profiler
+  101  clear
+  102  clear
+  103  whoiam
+  104  whoami
+  105  df-h
+  106  df -h
+  107  ifconfig
+  108  ipconfig
+  109  ifconfig
+  110  clear
+  111  ipconfig -all
+  112  clear
+  113  ls
+  114  cd Desktop
+  115  cd Lesson32
+  116  chmod 777 1.txt
+  117  touch 1.txt
+  118  chmod 777 1.txt
+  119  clear
+  120  git config --global user.name "Eugene Riabokon"
+  121  git config --global user.email gman.kiev@gmail.com
+  122  git clone https://github.com/EugeneRiabokon/Lesson32.git
+  123  git status
+  124  ls
+  125  rm file.txt
+  126  ls
+  127  cd Lesson32
+  128  ls
+  129  git status
+  130  touch new.txt
+  131  git status
+  132  git add new.txt
+  133  git status
+  134  git commit -m "new.txt file added"
+  135  git status
+  136  git checkout -b new_branch
+  137  git branch
+  138  git add new.txt
+  139  git status
+  140  nano new.txt
+  141  git add new.txt
+  142  git status
+  143  git checkout main
+  144  git branch
+  145  git merge new_branch
+  146  git merge new_branch
+  147  git status
+  148  git branch
+  149  git push
+  150  git push
+  151  cd Desktop
+  152  cd Lesson32
+  153  cd Lesson32
+  154  git push
+  155  git push
+  156  ls
+  157  Desktop
+  158  sd Desktop
+  159  ls
+  160  cd Desktop
+  161  cd Git\ Homework
+  162  ls
+  163  pwd
+  164  cd ..
+  165  ls
+  166  cd Git
+  167  history -c && rm ~/.bash_history
+  168  history -c
+  169  type history -p
+  170  history -c && rm ~/.bash_history
+  171  clear
+  172  cd Desktop
+  173  cd Git
+  174  history -c && rm ~/.bash_history
+  175  git config --global user.name "Eugene Riabokon"
+  176  git config --global user.email gman.kiev@gmail.com
+  177  git clone https://github.com/EugeneRiabokon/HW_10.git
+  178  cd HW_10
+  179  touch text_ignore.txt
+  180  nano text_ignore.txt
+  181  nano .gitignore
+  182  git status
+  183  git add text_ignore.txt
+  184  -f
+  185  cd Desktop
+  186  cd Git
+  187  history -c && rm ~/.bash_history
+  188  history-c && rm ~/.bash_history
+  189  history-c && rm ~/.bash_history
+  190  user.name eugene riabokon
+  191  user.name "eugene riabokon"
+  192  clear
+  193  rwd
+  194  dwr
+  195  drw
+  196  pwd
+  197  clear
+  198  touch mkdir 111
+  199  touch file1.txt
+  200  ls
+  201  vim file1.txt
+  202  nano file1.txt
+  203  nano file1.txt
+  204  lp
+  205  ls
+  206  git clone https://github.com/EugeneRiabokon/HW_10.git
+  207  cd HW_10
+  208  touch text_ignore.txt
+  209  nano .gitignore
+  210  git staus
+  211  git status
+  212  git add .gitignore
+  213  git status
+  214  git commit -m ".gitignore modified"
+  215  git checkout -b develop
+  216  touch develop_test.txt
+  217  git status
+  218  git add develop_test.txt
+  219  git commit -m "develop_test.txt added"
+  220  nano develop_test.txt
+  221  git status
+  222  git add develop_text.txt
+  223  commit -m "develop_test.txt modified"
+  224  git add develop_test.txt
+  225  commit -m "develop_test.txt modified"
+  226  git status
+  227  git commit -m "develop_test.txt modified"
+  228  git checkout main
+  229  git merge develop
+  230  git log
